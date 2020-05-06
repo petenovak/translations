@@ -310,16 +310,16 @@
 
 // Forecast - Conditions
 
-"Clear" = "Clear";
-"Rain" = "Rain";
-"Snow" = "Snow";
-"Sleet" = "Sleet";
-"Windy" = "Windy";
-"Fog" = "Fog";
-"Partly Cloudy" = "Partly Cloudy";
-"Mostly Cloudy" = "Mostly Cloudy";
-"Hail" = "Hail";
-"Icy" = "Icy";
+"Clear" = "Bezchmurnie";
+"Rain" = "Deszcz";
+"Snow" = "Śnieg";
+"Sleet" = "Śn+de";
+"Windy" = "Wietrznie";
+"Fog" = "Mgła";
+"Partly Cloudy" = "Częśc. zachmurz.";
+"Mostly Cloudy" = "Gęste zachmurz.";
+"Hail" = "Grad";
+"Icy" = "";
 "Cloudy" = "Cloudy";
 "Tornado" = "Tornado";
 "Hurricane" = "Hurricane";
