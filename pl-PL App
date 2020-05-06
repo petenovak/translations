@@ -337,18 +337,18 @@
 "Partly Cloudy" = "Częśc. zachmurz.";
 "Mostly Cloudy" = "Gęste zachmurz.";
 "Cloudy" = "Pochmurno";
-"Drizzle" = "Mrzawka";
+"Drizzle" = "Mżawka";
 "Light Rain" = "Lekki deszcz";
 "Heavy Rain" = "Ulewa";
-"Torrential Downpour" = "Torrential Downpour";
+"Torrential Downpour" = "Urwanie chmury";
 "Light Snow" = "Lekki śnieg";
 "Snow" = "Śnieg";
 "Heavy Snow" = "Dużo śniegu";
 "Icy" = "Oblodzenie";
-"Hail" = "Gead";
+"Hail" = "Grad";
 "Sleet" = "Śnieg i deszcz";
 "Windy" = "Wietrznie";
-"Foggy" = "Mgliścid";
+"Foggy" = "Mgliście";
 "Tornado" = "Tornado";
 "Hurricane" = "Huragan";
 "Alert" = "Alert";
@@ -356,26 +356,26 @@
 
 // Forecast Detail
 
-"Share..." = "Share...";
-"ShareForecast" = "Share Forecast";
-"ReportADataProblem" = "Report a Data Problem";
-"AffectedAreas" = "Affected Areas";
-"OpenAlertWebsite" = "Open Alert Website";
-"Share" = "Share";
-"EmailUs" = "Email Us";
-"OpenMail" = "Open Mail";
-"EmailUs-Message" = "Please contact us at team@weatherlineapp.com.";
+"Share..." = "Udost...";
+"ShareForecast" = "Udost. prognozę";
+"ReportADataProblem" = "Zgłoś błędne dane";
+"AffectedAreas" = Dotknięte strefy";
+"OpenAlertWebsite" = "Otwórz stronę z alertem";
+"Share" = "Udostępnij";
+"EmailUs" = "Nasz Email";
+"OpenMail" = "Otworz Mail";
+"EmailUs-Message" = "Napisz do nas na team@weatherlineapp.com.";
 
 // Travel Assist
 
-"Travel Assist" = "Travel Assist";
-"TravelAssistActionTitle" = "\nTravel Assist";
-"TravelAssistMessage" = "When you travel more than (AAD) away, your home will appear as a separate location. Your home address is only stored on your device."; // ignore (AAD)
-"TravelAssistChooseLocation" = "Choose Home Location";
-"TravelAssistChangeLocation" = "Change Home Location";
-"TravelAssistTurnOff" = "Turn Off";
-"Away" = "Away";
-"Home" = "Home";
+"Travel Assist" = "Asystent podróży";
+"TravelAssistActionTitle" = "\nAsystent Podróży";
+"TravelAssistMessage" = "Kiedy podróżujesz dalej, niż (AAD), Twój dom pojawi się jako osobna lokalizacja. Twój adres domowy jest przechowywany tylko na Twoim urządzeniu."; // ignore (AAD)
+"TravelAssistChooseLocation" = "Wybierz lokalizację domu";
+"TravelAssistChangeLocation" = "Zmień lokalizację domu";
+"TravelAssistTurnOff" = "Wyłącz";
+"Away" = "Poza domem";
+"Home" = "W domu";
 
 // Widget
 
