@@ -241,72 +241,72 @@
 
 "ForecastDataUnavailable" = "Prognoza chwilowo niedostępna";
 "NoPrecipitationForTheHour" = "Brak opadów w tej godzinie";
-"Gust" = "Gust";
+"Gust" = "Porywy";
 "Radar" = "Radar";
 "MonthlyAverages" = "Średnie na mies.";
-"FeelsLike" = "Feels Like";
-"Feels Like" = "Feels Like";
-"Actual" = "Actual";
-"ActualTemp" = "Actual Temp";
-"Precipitation" = "Precipitation";
-"Snow" = "Snow";
-"Sleet" = "Sleet";
-"DewPoint" = "Dew Point";
-"Humidity" = "Humidity";
-"Sunrise" = "Sunrise";
-"Sunset" = "Sunset";
-"Wind" = "Wind";
-"UVIndex" = "UV Index";
-"CloudCover" = "Cloud Cover";
-"AvgHigh" = "Average High";
-"AvgLow" = "Average Low";
-"MonthlyRain" = "Monthly Rain";
-"MonthlyRainCondensed" = "Mo. Rain";
-"DailyRain" = "Daily Rain";
-"RainDays" = "Rain Days";
-"SnowDays" = "Snow Days";
-"DryDays" = "Dry Days";
-"FogDays" = "Fog Days";
-"HoursOfSun" = "Hours of Sun";
+"FeelsLike" = "Czuć jak";
+"Feels Like" = "Czuć jak";
+"Actual" = "Właśc.";
+"ActualTemp" = "Właśc. temp.";
+"Precipitation" = "Opady";
+"Snow" = "Śnieg";
+"Sleet" = "Śn+de";
+"DewPoint" = "Punkt rosy";
+"Humidity" = "Wilgotność";
+"Sunrise" = "Wschód";
+"Sunset" = "Zachód";
+"Wind" = "Wiatr";
+"UVIndex" = "Wskaźnik UV";
+"CloudCover" = "Zachmurzenie";
+"AvgHigh" = "Średn. Max";
+"AvgLow" = "Średn. Min";
+"MonthlyRain" = "Opady mies.";
+"MonthlyRainCondensed" = "Opady/mc";
+"DailyRain" = "Opady dzienne";
+"RainDays" = "Dni deszczowych";
+"SnowDays" = "Dni ze śniegiem";
+"DryDays" = "Dni suchych";
+"FogDays" = "Dni z mgłą";
+"HoursOfSun" = Godzin słońca";
 
 // Forecast - Times
 
-"Now" = "Now";
-"Today" = "Today";
-"Average" = "Average";
+"Now" = "Teraz";
+"Today" = "Dziś";
+"Average" = "Średnio";
 
-"Yr" = "Yr";
-"mins" = "mins"; // as in minutes
+"Yr" = "r";
+"mins" = "min"; // as in minutes
 "min" = "min"; // as in minute
-"more" = "more";
-"More" = "More";
-"Weather Alert" = "Weather Alert";
-"Weather Alerts" = "Weather Alerts";
-"Expires" = "Expires";
-"at" = "at";
-"Noon" = "Noon";
+"more" = "więcej";
+"More" = "Więcej";
+"Weather Alert" = "Alert pogodowy";
+"Weather Alerts" = "Alerty pogodowe";
+"Expires" = "Wygasa";
+"at" = "o";
+"Noon" = "12:00";
 
 // Forecast - Wind directions
 
-"NE" = "NE";
-"E" = "E";
-"SE" = "SE";
-"S" = "S";
-"SW" = "SW";
-"W" = "W";
-"NW" = "NW";
-"N" = "N";
+"NE" = "PnW";
+"E" = "W";
+"SE" = "PdW";
+"S" = "Pd";
+"SW" = "PdZ";
+"W" = "Z";
+"NW" = "PnZ";
+"N" = "Pn";
 
 // Forecast - Moon phases
 
-"New" = "New";
-"Waxing Crescent" = "Waxing Crescent";
-"First Quarter" = "First Quarter";
-"Waxing Gibbous" = "Waxing Gibbous";
-"Full" = "Full";
-"Waning Gibbous" = "Waning Gibbous";
-"Last Quarter" = "Last Quarter";
-"Waning Crescent" = "Waning Crescent";
+"New" = "Nów";
+"Waxing Crescent" = "Przybywający sierp";
+"First Quarter" = "Pierwsza kwadra";
+"Waxing Gibbous" = "Przybywający garb";
+"Full" = "Pełnia";
+"Waning Gibbous" = "Ubywający garb";
+"Last Quarter" = "Ostatnia kwadra";
+"Waning Crescent" = "Ubywający sierp";
 
 // Forecast - Conditions
 
