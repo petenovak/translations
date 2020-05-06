@@ -155,53 +155,53 @@
 "Animation Preview" = "Podgląd animacji";
 "Preview" = "Podgląd";
 
-"Show Moon Phases" = "Pokaż fazy księż.";
+"Show Moon Phases" = "Fazy księżyca";
 
 // Search for Location
 
 "CurrentLocation" = "Twoje położenie";
 "AddLocationSearchBarPlaceholder" = "Szukaj";
 "LocationAccess-NotAuthorizedTitle" = "Brak autoryzacji";
-"LocationAccess-NotAuthorizedMessage" = "Enable location access to get forecasts for your current location.";
+"LocationAccess-NotAuthorizedMessage" = "Włącz dostęp do lokalizacji, żeby otrzymać prognozę w Twoim położeniu.";
 "LocationAccess-CouldntDetermineTitle" = "Nie mogę znaleźć położenia";
-"LocationAccess-CouldntDetermineMessage" = "Ensure location access is enabled in Settings and try again.";
+"LocationAccess-CouldntDetermineMessage" = "Upewnij się, że dostęp do lokalizacji jest włączony w Ustawieniach i spróbuj ponownie.";
 "Automatic" = "Automat.";
-"Saved" = "Zapisane";
-"AddLocationSearchMessage" = "Enter street address, city, zip code, or airport.";
-"AddLocationListLocationMessage" = "Where on your saved list should new locations be added?";
+"Saved" = "Zapisano";
+"AddLocationSearchMessage" = "Wpisz adres, miasto, kod pocztowy lub lotnisko.";
+"AddLocationListLocationMessage" = "Gdzie na liście zapisywać nowe lokacje?";
 
 // Units - Long Form
 
 "Celsius" = "Celsjusz";
 "Fahrenheit" = "Fahrenheit";
 "Kelvin" = "Kelwin";
-"Miles Per Hour" = "mil/godzinę";
-"Kilometers Per Hour" = "km/godzinę";
-"Meters Per Second" = "m/sekundę";
-"Knots" = "węzł.";
+"Miles Per Hour" = "mil/h";
+"Kilometers Per Hour" = "km/h";
+"Meters Per Second" = "m/s";
+"Knots" = "węz.";
 "Beaufort" = "Beaufort";
 "Inches" = "cal.";
 "Centimeters" = "cm";
 "Millimeters" = "mm";
-"Inch of Mercury" = "cal. słupka rtęci";
+"Inch of Mercury" = "inHg";
 "Hectopascal" = "hPa";
-"Millimeter of Mercury" = "mm słupka rtęci";
+"Millimeter of Mercury" = "mmHg";
 "Millibar" = "mB";
 
 // Units - Short Form
 
-"C" = "C"; // Celsjusz
+"C" = "C"; // Celsius
 "F" = "F"; // Fahrenheit
-"K" = "K"; // Kelwin
-"mph" = "mil/godz";
-"kph" = "km/godz";
+"K" = "K"; // Kelvin
+"mph" = "mil/h";
+"kph" = "km/h";
 "in" = "cal."; // inch
 "cm" = "cm";
 "mm" = "mm";
-"mph" = "mil/godz";
+"mph" = "mil/h";
 "m/s" = "m/s";
-"km/h" = "km/godz";
-"kn" = "węzł."; // knots
+"km/h" = "km/h";
+"kn" = "węz."; // knots
 "inHg" = "inHg";
 "mmHg" = "mmHg";
 "hPa" = "hPa";
@@ -224,22 +224,26 @@
 
 // Month Names - Short
 
-"J" = "Sty";
-"F" = "Lut";
-"M" = "Mar";
-"A" = "Kwi";
-"S" = "Wrz";
-"O" = "Paź";
-"N" = "Lis";
-"D" = "Gru";
+"J" = "S";
+"F" = "L";
+"M" = "M";
+"A" = "K";
+"M" = "M";
+"J" = "C";
+"J" = "L";
+"A" = "S";
+"S" = "W";
+"O" = "P";
+"N" = "L";
+"D" = "G";
 
 // Forecast
 
-"ForecastDataUnavailable" = "Forecast Data Currently Unavailable";
-"NoPrecipitationForTheHour" = "No precipitation for the hour";
+"ForecastDataUnavailable" = "Prognoza chwilowo niedostępna";
+"NoPrecipitationForTheHour" = "Brak opadów w tej godzinie";
 "Gust" = "Gust";
 "Radar" = "Radar";
-"MonthlyAverages" = "Monthly Averages";
+"MonthlyAverages" = "Średnie na mies.";
 "FeelsLike" = "Feels Like";
 "Feels Like" = "Feels Like";
 "Actual" = "Actual";
