@@ -288,13 +288,13 @@
 
 // Forecast - Wind directions
 
-"NE" = "PnW";
-"E" = "W";
-"SE" = "PdW";
+"NE" = "Pn Wsch";
+"E" = "Wsch";
+"SE" = "Pd Wsch";
 "S" = "Pd";
-"SW" = "PdZ";
-"W" = "Z";
-"NW" = "PnZ";
+"SW" = "Pd Zach";
+"W" = "Zach";
+"NW" = "Pn Zach";
 "N" = "Pn";
 
 // Forecast - Moon phases
