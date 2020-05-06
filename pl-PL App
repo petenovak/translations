@@ -17,98 +17,98 @@
 // General - App
 
 "WeatherLine" = "Weather Line";
-"Settings" = "Settings";
-"Done" = "Done";
-"Cancel" = "Cancel";
-"On" = "On";
-"Off" = "Off";
+"Settings" = "Opcje";
+"Done" = "OK";
+"Cancel" = "Anuluj";
+"On" = "Wł";
+"Off" = "Wył";
 "–" = "–";
 "None" = "None";
 "Reset" = "Reset";
-"Skip" = "Skip";
-"By" = "By";
-"Of" = "Of"; // as in 1 of 3 pages
+"Skip" = "Pomiń";
+"By" = "O";
+"Of" = "Z"; // as in 1 of 3 pages
 
-"Report a Bug" = "Report a Bug";
-"Report a Data Problem" = "Report a Data Problem";
-"Request a Feature" = "Request a Feature";
-"Ask a Question" = "Ask a Question";
-"Cancel" = "Cancel";
+"Report a Bug" = "Zgłoś błąd";
+"Report a Data Problem" = "Zgłoś błędne dane";
+"Request a Feature" = "Zaproponuj funkcję";
+"Ask a Question" = "Zadaj pytanie";
+"Cancel" = "Anuluj";
 
-"Rename" = "Rename";
-"Continue" = "Continue";
-"Never" = "Never";
+"Rename" = "Zm. nazwę";
+"Continue" = "Dalej";
+"Never" = "Nigdy";
 "Status" = "Status";
-"Manage" = "Manage";
-"Type" = "Type"; // as in type of something (noun), not action to type (verb)
-"Expires" = "Expires";
-"RestorePurchases" = "Restore Purchases";
-"Upgrade To" = "Upgrade To";
+"Manage" = "Zarządz.";
+"Type" = "Typ"; // as in type of something (noun), not action to type (verb)
+"Expires" = "Wygasa";
+"RestorePurchases" = "Przywróć zakupy";
+"Upgrade To" = "Upgraduj do";
 
-"What's New in Weather Line" = "What's New\nin Weather Line";
-"What's New" = "What's New";
+"What's New in Weather Line" = "Co nowego\nw Weather Line";
+"What's New" = "Co nowego";
 
 // General - Time-based
 
-"Hours" = "Hours";
-"Hour" = "Hour";
-"Day" = "Day";
-"Days" = "Days";
-"Week" = "Week";
-"Weeks" = "Weeks";
-"Month" = "Month";
-"Months" = "Months";
+"Hours" = "Godz.";
+"Hour" = "Godz.";
+"Day" = "Dzień";
+"Days" = "Dni";
+"Week" = "Tydz.";
+"Weeks" = "Tyg.";
+"Month" = "Mies.";
+"Months" = "Mies.";
 
-"Hourly" = "Hourly";
-"Daily" = "Daily";
+"Hourly" = "Godz.";
+"Daily" = "Dzien.";
 
-"AddMyLocation" = "Add My Location";
+"AddMyLocation" = "Dodaj lokację";
 
 // Toasts - Forecast Refreshing
 
-"Updating" = "Updating...";
-"LastUpdated" = "Last updated";
+"Updating" = "Uaktualniam";
+"LastUpdated" = "Uaktualniono";
 "Offline" = "Offline";
-"Unknown" = "Unknown";
+"Unknown" = "Nieznany";
 
 // Settings
 
-"UpgradeToSuperchargeTitle" = "Upgrade to Supercharge";
-"EmptyLocationList-Header" = "No Locations";
-"EmptyLocationList-Message" = "Use the top menu to add a location";
-"AddANewLocation" = "Add a new location";
-"DeleteALocation" = "Delete an existing location to add a new one";
-"ManageLocationsTitle" = "Locations";
+"UpgradeToSuperchargeTitle" = "Upgraduj do Supercharge";
+"EmptyLocationList-Header" = "Brak lokacji";
+"EmptyLocationList-Message" = "Dodaj lokację w menu na górze";
+"AddANewLocation" = "Dodaj nową lokację";
+"DeleteALocation" = "Usuń istniejącą lokację, żeby dodać nową";
+"ManageLocationsTitle" = "Lokacje";
 "WidgetTitle" = "Widget";
-"LaunchMode" = "Launch Style";
-"ManageAdsTitle" = "Ads";
-"ManageAccountTitle" = "Subscription";
-"ManageThemeTitle" = "Theme";
-"AppIconTitle" = "App Icon";
-"WeatherData" = "Weather Data";
-"WeatherDataTitle" = "Data Source";
+"LaunchMode" = "Tryb otwarcia";
+"ManageAdsTitle" = "Reklamy";
+"ManageAccountTitle" = "Subskrypcja";
+"ManageThemeTitle" = "Motyw";
+"AppIconTitle" = "Ikona";
+"WeatherData" = "Dane pogodowe";
+"WeatherDataTitle" = "Źródło";
 "ManageRadarTitle" = "Radar";
-"MoonPhasesTitle" = "Moon Phases";
-"ManageUnitsTitle" = "Units";
-"ManageTemperatureTitle" = "Temperature Type";
-"Legend" = "Legend";
-"ContactUs" = "Contact Us";
-"RateWeatherLine" = "Rate App";
-"ShareApp" = "Share App";
-"FollowWeatherLine" = "Follow Us";
-"ManageSubscription" = "Manage Subscription";
-"Acknowledgments" = "Acknowledgments";
-"ShowWalkthrough" = "Show App Walkthrough";
+"MoonPhasesTitle" = "Fazy księżyca";
+"ManageUnitsTitle" = "Jedn.";
+"ManageTemperatureTitle" = "Typ temperatury";
+"Legend" = "Legenda";
+"ContactUs" = "Kontakt";
+"RateWeatherLine" = "Oceń nas";
+"ShareApp" = "Udostępnij";
+"FollowWeatherLine" = "Obserwuj";
+"ManageSubscription" = "Zarządzaj subskr.";
+"Acknowledgments" = "Podziękowania";
+"ShowWalkthrough" = "Przewodnik";
 
 // Settings section headers
 
-"Locations" = "Locations";
-"Appearance" = "Appearance";
-"Other" = "Other";
+"Locations" = "Lokacje";
+"Appearance" = "Wygląd";
+"Other" = "Inne";
 
 // Settings subpages
 
-"Open-Source Components" = "Open-Source Components";
+"Open-Source Components" = "Elementy Open-Source";
 
 "LaunchModeHelpText" = "Fresh launches of the app will open to this screen.";
 "WidgetHelpText" = "Turn on to automatically match app's theme. Leave off to use standard translucent widget background. (SC) required for graph and themes.";
@@ -128,80 +128,80 @@
 "UseDarkSky" = "Use Dark Sky for Forecasting";
 
 "Standard" = "Standard";
-"Muted Standard" = "Muted Standard";
-"Satellite" = "Satellite";
-"Hybrid" = "Hybrid";
-"Automatically When Loaded" = "Automatically When Loaded";
-"When Tapped" = "When Tapped";
-"Automatically" = "Automatically";
-"All, Hourly" = "All, Hourly";
-"All, Daily" = "All, Daily";
-"Top, Hourly" = "Top, Hourly";
-"Top, Daily" = "Top, Daily";
-"All Locations, Hourly Graph" = "All Locations, Hourly Graph";
-"All Locations, Daily Graph" = "All Locations, Daily Graph";
-"Top Location, Hourly Graph" = "Top Location, Hourly Graph";
-"Top Location, Daily Graph" = "Top Location, Daily Graph";
+"Muted Standard" = "Cichy Standard";
+"Satellite" = "Satelita";
+"Hybrid" = "Hybryda";
+"Automatically When Loaded" = "Aut. po załadowaniu";
+"When Tapped" = "Po tapnięciu";
+"Automatically" = "Automatycznie";
+"All, Hourly" = "Wsz, godz.";
+"All, Daily" = "Wsz, dzien.";
+"Top, Hourly" = "Top, godz.";
+"Top, Daily" = "Top, dzien.";
+"All Locations, Hourly Graph" = "Wsz. lokacje, godzinowo";
+"All Locations, Daily Graph" = "Wsz. lokacje, dziennie";
+"Top Location, Hourly Graph" = "Top lokacje, godzinowo";
+"Top Location, Daily Graph" = "Top lokacje, dziennie";
 
-"Auto Match to Theme" = "Auto Match to Theme";
-"Update Theme Settings" = "Update Theme Settings";
-"Open Theme Settings" = "Open Theme Settings";
+"Auto Match to Theme" = "Dopasuj do motywu";
+"Update Theme Settings" = "Uaktualnij ust. motywu";
+"Open Theme Settings" = "Otwórz ust. motywu";
 
-"To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings." =  "To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings."; // WL-Insert
+"To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings." =  "Żeby dopasować ikonę automatycznie do motywu, wyłącz najpierw (ALERT) w ustawieniach motywu."; // WL-Insert
 
-"Play Animation" = "Play Animation";
-"Map Style" = "Map Style";
-"Show Map Pin" = "Show Map Pin";
-"Animation Preview" = "Animation Preview";
-"Preview" = "Preview";
+"Play Animation" = "Odtwórz animacje";
+"Map Style" = "Tryb mapy";
+"Show Map Pin" = "Pokaż pinezkę";
+"Animation Preview" = "Podgląd animacji";
+"Preview" = "Podgląd";
 
-"Show Moon Phases" = "Show Moon Phases";
+"Show Moon Phases" = "Pokaż fazy księż.";
 
 // Search for Location
 
-"CurrentLocation" = "Current Location";
-"AddLocationSearchBarPlaceholder" = "Search";
-"LocationAccess-NotAuthorizedTitle" = "Not Authorized";
+"CurrentLocation" = "Twoje położenie";
+"AddLocationSearchBarPlaceholder" = "Szukaj";
+"LocationAccess-NotAuthorizedTitle" = "Brak autoryzacji";
 "LocationAccess-NotAuthorizedMessage" = "Enable location access to get forecasts for your current location.";
-"LocationAccess-CouldntDetermineTitle" = "Couldn’t Determine Location";
+"LocationAccess-CouldntDetermineTitle" = "Nie mogę znaleźć położenia";
 "LocationAccess-CouldntDetermineMessage" = "Ensure location access is enabled in Settings and try again.";
-"Automatic" = "Automatic";
-"Saved" = "Saved";
+"Automatic" = "Automat.";
+"Saved" = "Zapisane";
 "AddLocationSearchMessage" = "Enter street address, city, zip code, or airport.";
 "AddLocationListLocationMessage" = "Where on your saved list should new locations be added?";
 
 // Units - Long Form
 
-"Celsius" = "Celsius";
+"Celsius" = "Celsjusz";
 "Fahrenheit" = "Fahrenheit";
-"Kelvin" = "Kelvin";
-"Miles Per Hour" = "Miles Per Hour";
-"Kilometers Per Hour" = "Kilometers Per Hour";
-"Meters Per Second" = "Meters Per Second";
-"Knots" = "Knots";
+"Kelvin" = "Kelwin";
+"Miles Per Hour" = "mil/godzinę";
+"Kilometers Per Hour" = "km/godzinę";
+"Meters Per Second" = "m/sekundę";
+"Knots" = "węzł.";
 "Beaufort" = "Beaufort";
-"Inches" = "Inches";
-"Centimeters" = "Centimeters";
-"Millimeters" = "Millimeters";
-"Inch of Mercury" = "Inch of Mercury";
-"Hectopascal" = "Hectopascal";
-"Millimeter of Mercury" = "Millimeter of Mercury";
-"Millibar" = "Millibar";
+"Inches" = "cal.";
+"Centimeters" = "cm";
+"Millimeters" = "mm";
+"Inch of Mercury" = "cal. słupka rtęci";
+"Hectopascal" = "hPa";
+"Millimeter of Mercury" = "mm słupka rtęci";
+"Millibar" = "mB";
 
 // Units - Short Form
 
-"C" = "C"; // celsius
-"F" = "F"; // fahrenheit
-"K" = "K"; // kelvin
-"mph" = "mph";
-"kph" = "kph";
-"in" = "in"; // inch
+"C" = "C"; // Celsjusz
+"F" = "F"; // Fahrenheit
+"K" = "K"; // Kelwin
+"mph" = "mil/godz";
+"kph" = "km/godz";
+"in" = "cal."; // inch
 "cm" = "cm";
 "mm" = "mm";
-"mph" = "mph";
+"mph" = "mil/godz";
 "m/s" = "m/s";
-"km/h" = "km/h";
-"kn" = "kn"; // knots
+"km/h" = "km/godz";
+"kn" = "węzł."; // knots
 "inHg" = "inHg";
 "mmHg" = "mmHg";
 "hPa" = "hPa";
@@ -209,29 +209,29 @@
 
 // Month Names - Long
 
-"January" = "January";
-"February" = "February";
-"March" = "March";
-"April" = "April";
-"May" = "May";
-"June" = "June";
-"July" = "July";
-"August" = "August";
-"September" = "September";
-"October" = "October";
-"November" = "November";
-"December" = "December";
+"January" = "Styczeń";
+"February" = "Luty";
+"March" = "Marzec";
+"April" = "Kwiecień";
+"May" = "Maj";
+"June" = "Czerwiec";
+"July" = "Lipiec";
+"August" = "Sierpień";
+"September" = "Wrzesień";
+"October" = "Październik";
+"November" = "Listopad";
+"December" = "Grudzień";
 
 // Month Names - Short
 
-"J" = "J";
-"F" = "F";
-"M" = "M";
-"A" = "A";
-"S" = "S";
-"O" = "O";
-"N" = "N";
-"D" = "D";
+"J" = "Sty";
+"F" = "Lut";
+"M" = "Mar";
+"A" = "Kwi";
+"S" = "Wrz";
+"O" = "Paź";
+"N" = "Lis";
+"D" = "Gru";
 
 // Forecast
 
