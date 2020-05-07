@@ -17,13 +17,13 @@
 // General - App
 
 "WeatherLine" = "Weather Line";
-"Settings" = "Opcje";
+"Settings" = "Ustawienia";
 "Done" = "OK";
 "Cancel" = "Anuluj";
-"On" = "Wł";
-"Off" = "Wył";
+"On" = "Wł.";
+"Off" = "Wył.";
 "–" = "–";
-"None" = "None";
+"None" = "-";
 "Reset" = "Reset";
 "Skip" = "Pomiń";
 "By" = "O";
@@ -59,10 +59,10 @@
 "Month" = "Mies.";
 "Months" = "Mies.";
 
-"Hourly" = "Godz.";
-"Daily" = "Dzien.";
+"Hourly" = "Co godz.";
+"Daily" = "Na dni";
 
-"AddMyLocation" = "Dodaj lokację";
+"AddMyLocation" = "Dodaj moją lokację";
 
 // Toasts - Forecast Refreshing
 
@@ -138,10 +138,10 @@
 "All, Daily" = "Wsz, dzien.";
 "Top, Hourly" = "Top, godz.";
 "Top, Daily" = "Top, dzien.";
-"All Locations, Hourly Graph" = "Wsz. lokacje, godzinowo";
-"All Locations, Daily Graph" = "Wsz. lokacje, dziennie";
-"Top Location, Hourly Graph" = "Top lokacje, godzinowo";
-"Top Location, Daily Graph" = "Top lokacje, dziennie";
+"All Locations, Hourly Graph" = "Wsz. lokacje, co godzinę";
+"All Locations, Daily Graph" = "Wsz. lokacje, na dni";
+"Top Location, Hourly Graph" = "Top lokacje, co godzinę";
+"Top Location, Daily Graph" = "Top lokacje, na dni";
 
 "Auto Match to Theme" = "Dopasuj do motywu";
 "Update Theme Settings" = "Uaktualnij ust. motywu";
