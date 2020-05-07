@@ -52,7 +52,7 @@
 
 "Hours" = "Godz.";
 "Hour" = "Godz.";
-"Day" = "Dzień";
+"Day" = "D.";
 "Days" = "Dni";
 "Week" = "Tydz.";
 "Weeks" = "Tyg.";
@@ -60,13 +60,13 @@
 "Months" = "Mies.";
 
 "Hourly" = "Co godz.";
-"Daily" = "Na dni";
+"Daily" = "Dzien.";
 
 "AddMyLocation" = "Dodaj moją lokację";
 
 // Toasts - Forecast Refreshing
 
-"Updating" = "Uaktualniam";
+"Updating" = "Uaktualn.";
 "LastUpdated" = "Uaktualniono";
 "Offline" = "Offline";
 "Unknown" = "Nieznany";
@@ -110,15 +110,15 @@
 
 "Open-Source Components" = "Elementy Open-Source";
 
-"LaunchModeHelpText" = "Fresh launches of the app will open to this screen.";
-"WidgetHelpText" = "Turn on to automatically match app's theme. Leave off to use standard translucent widget background. (SC) required for graph and themes.";
-"MoonPhaseHelpText" = "(SC) required for moon data.\n";
-"AnimatedRadarHelpText" = "(SC) required for animation.\n";
-"AdsHelpText" = "(SC) required to remove ads.\n";
-"ThemesHelpText" = "(SC) required for themes other than Light and Dark.\n";
-"GraphTemperatureHelpText" = "Choose which temperature to graph. The other will be displayed below the graph.\n";
-"BasicWeatherHeader" = "Basic";
-"BasicWeatherSubtitle" = "Standard NOAA 7-day forecast";
+"LaunchModeHelpText" = "Po każdym uruchomieniu aplikacja będzie pokazywać ten ekran.";
+"WidgetHelpText" = "Włącz, żeby automatycznie dopasować motyw. Zostaw wyłączone, żeby używać przezroczystego tła widgetu. (SC) wymagane dla grafu i motywów.";
+"MoonPhaseHelpText" = "(SC) wymagane dla faz księżyca.\n";
+"AnimatedRadarHelpText" = "(SC) wymagane dla animacji.\n";
+"AdsHelpText" = "(SC) wymagane do usunięcia reklam.\n";
+"ThemesHelpText" = "(SC) wymagane dla motywów innych, niż jasny i ciemny.\n";
+"GraphTemperatureHelpText" = "Wybierz, którą temperaturę wyświetlać jako graf. Pozostałe będą wyświetlane pod spodem.\n";
+"BasicWeatherHeader" = "Podst.";
+"BasicWeatherSubtitle" = "Standardowa NOAA 7-day forecast";
 "SuperForecastHeader" = "Super Forecast";
 "SuperForecastSubtitle" = "Best of everything 10-day forecast";
 "Forecasting" = "Forecasting";
