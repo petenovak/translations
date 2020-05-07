@@ -118,14 +118,14 @@
 "ThemesHelpText" = "(SC) wymagane dla motywów innych, niż jasny i ciemny.\n";
 "GraphTemperatureHelpText" = "Wybierz, którą temperaturę wyświetlać jako graf. Pozostałe będą wyświetlane pod spodem.\n";
 "BasicWeatherHeader" = "Podst.";
-"BasicWeatherSubtitle" = "Standardowa NOAA 7-day forecast";
-"SuperForecastHeader" = "Super Forecast";
-"SuperForecastSubtitle" = "Best of everything 10-day forecast";
-"Forecasting" = "Forecasting";
-"SuperForecastDetailHeader" = "Welcome to the future of weather";
-"SuperForecastDetailText" = "The world’s #1 provider of each forecast type – combined into one view. You get the best of everything.";
-"DarkSkyRadarAvailability" = "Dark Sky short-term precipitation available in US, UK, and Ireland. Animated radar available in US, Canada, UK, Europe, Australia, and Japan.\n";
-"UseDarkSky" = "Use Dark Sky for Forecasting";
+"BasicWeatherSubtitle" = "Podst. 7-dniowa prognoza NOAA";
+"SuperForecastHeader" = "Superprognoza";
+"SuperForecastSubtitle" = "Najlepsza prognoza 10-dniowa";
+"Forecasting" = "Prognozowanie";
+"SuperForecastDetailHeader" = "Witaj w przyszłości pogody.";
+"SuperForecastDetailText" = "Najlepsi dostawcy danych prognozowych na świecie w jednej aplikacji. Dostajesz tylko to, co najlepsze.";
+"DarkSkyRadarAvailability" = "Prognoza opadów Dark Sky dla USA, UK i Irlandii. Animowany radar dostępny dla USA, Kanady, UK, Europy, Australii i Japonii.\n";
+"UseDarkSky" = "Używaj Dark Sky do prognozowania";
 
 "Standard" = "Standard";
 "Muted Standard" = "Cichy Standard";
@@ -134,14 +134,14 @@
 "Automatically When Loaded" = "Aut. po załadowaniu";
 "When Tapped" = "Po tapnięciu";
 "Automatically" = "Automatycznie";
-"All, Hourly" = "Wsz, godz.";
-"All, Daily" = "Wsz, dzien.";
-"Top, Hourly" = "Top, godz.";
-"Top, Daily" = "Top, dzien.";
+"All, Hourly" = "Wsz, co godz.";
+"All, Daily" = "Wsz, dni";
+"Top, Hourly" = "Top, co godz.";
+"Top, Daily" = "Top, dni";
 "All Locations, Hourly Graph" = "Wsz. lokacje, co godzinę";
-"All Locations, Daily Graph" = "Wsz. lokacje, na dni";
+"All Locations, Daily Graph" = "Wsz. lokacje, najbl. dni";
 "Top Location, Hourly Graph" = "Top lokacje, co godzinę";
-"Top Location, Daily Graph" = "Top lokacje, na dni";
+"Top Location, Daily Graph" = "Top lokacje, najbl. dni";
 
 "Auto Match to Theme" = "Dopasuj do motywu";
 "Update Theme Settings" = "Uaktualnij ust. motywu";
@@ -283,7 +283,7 @@
 "Weather Alert" = "Alert pogodowy";
 "Weather Alerts" = "Alerty pogodowe";
 "Expires" = "Wygasa";
-"at" = "o";
+"at" = "O";
 "Noon" = "12:00";
 
 // Forecast - Wind directions
@@ -300,42 +300,42 @@
 // Forecast - Moon phases
 
 "New" = "Nów";
-"Waxing Crescent" = "Przybywający sierp";
-"First Quarter" = "Pierwsza kwadra";
-"Waxing Gibbous" = "Przybywający garb";
+"Waxing Crescent" = "Przybyw. sierp";
+"First Quarter" = "1-sza kwadra";
+"Waxing Gibbous" = "Przybyw. garb";
 "Full" = "Pełnia";
-"Waning Gibbous" = "Ubywający garb";
-"Last Quarter" = "Ostatnia kwadra";
-"Waning Crescent" = "Ubywający sierp";
+"Waning Gibbous" = "Ubyw. garb";
+"Last Quarter" = "Ost. kwadra";
+"Waning Crescent" = "Ubyw. sierp";
 
 // Forecast - Conditions
 
-"Clear" = "Bezchmurnie";
+"Clear" = "Bezchm.";
 "Rain" = "Deszcz";
 "Snow" = "Śnieg";
-"Sleet" = "Śnieg i deszcz";
+"Sleet" = "Śn+de";
 "Windy" = "Wietrznie";
 "Fog" = "Mgła";
-"Partly Cloudy" = "Częśc. zachmurz.";
-"Mostly Cloudy" = "Gęste zachmurz.";
+"Partly Cloudy" = "Częśc. zachm.";
+"Mostly Cloudy" = "Gęste zachm.";
 "Hail" = "Grad";
-"Icy" = "Oblodzenie";
+"Icy" = "Lód";
 "Cloudy" = "Pochmurno";
 "Tornado" = "Tornado";
 "Hurricane" = "Huragan";
 "Thunderstorm" = "Burza";
-"Sandstorm" = "Burza piaskowa";
+"Sandstorm" = "Burza pias.";
 
 "Most Common" = "Najczęściej";
 "Extra Hot" = "Upał";
 "Precipitation" = "Opady";
-"Clear Night" = "Bezchmurna noc";
-"Cloudy Night" = "Pochmurna noc";
+"Clear Night" = "Bezchm. noc";
+"Cloudy Night" = "Pochm. noc";
 "Other" = "Inne";
 "Radar" = "Radar";
 "Sunny" = "Słonecznie";
-"Partly Cloudy" = "Częśc. zachmurz.";
-"Mostly Cloudy" = "Gęste zachmurz.";
+"Partly Cloudy" = "Częśc. zachm.";
+"Mostly Cloudy" = "Gęste zachm.";
 "Cloudy" = "Pochmurno";
 "Drizzle" = "Mżawka";
 "Light Rain" = "Lekki deszcz";
@@ -344,9 +344,9 @@
 "Light Snow" = "Lekki śnieg";
 "Snow" = "Śnieg";
 "Heavy Snow" = "Dużo śniegu";
-"Icy" = "Oblodzenie";
+"Icy" = "Lód";
 "Hail" = "Grad";
-"Sleet" = "Śnieg i deszcz";
+"Sleet" = "Śn+de";
 "Windy" = "Wietrznie";
 "Foggy" = "Mgliście";
 "Tornado" = "Tornado";
@@ -379,46 +379,46 @@
 
 // Widget
 
-"WidgetNoLocations" = "Add a location to view the forecast.";
-"WidgetError" = "Forecast data not available.";
-"WidgetErrorGraph" = "Forecast data not available.";
+"WidgetNoLocations" = "Dodaj lokację, żeby zobaczyć pogodę.";
+"WidgetError" = "Prognoza niedostępna.";
+"WidgetErrorGraph" = "Prognoza niedostępna.";
 
 // Subscription
 
 "Supercharge" = "Supercharge";
 "Supercharged" = "Supercharged";
-"SuperForecast" = "Super Forecast";
-"Super Forecast" = "Super Forecast";
-"SuperForecast-LegacyProvider" = "Super Forecast Legacy";
-"Free" = "Free";
+"SuperForecast" = "Superprognoza";
+"Super Forecast" = "Superprognoza";
+"SuperForecast-LegacyProvider" = "Superprognoza Legacy";
+"Free" = "Za darmo";
 
-"Subscription-CantMakePurchasesTitle" = "Purchases Not Allowed";
-"Subscription-CantMakePurchasesMessage" = "This device is not authorized to make purchases. Sign into the App Store with an authorized account and try again.";
-"Subscription-PurchaseFailedTitle" = "Purchase Failed";
-"Subscription-PurchaseFailedMessage" = "Unable to complete your purchase. Please try again. ((ERR))"; // localize up to ((ERR))
-"Subscription-PurchaseFailedGenericMessage" = "Unable to complete your purchase. Please try again.";
-"Subscription-SuccessTitle" = "(SC) Unlocked"; // ignore (SC)
-"Subscription-SuccessMessage" = "All features have been unlocked and ads have been turned off.";
-"Subscription-NoPreviousPurchasesTitle" = "Restore Purchases";
-"Subscription-NoPreviousPurchasesMessage" = "No previous purchases found.";
-"Subscription-LegacyCheckTitle" = "Verification Required";
-"Subscription-LegacyCheckMessage" = "You may be asked to login with your Apple ID to confirm you were a Weather Line 1 user.";
+"Subscription-CantMakePurchasesTitle" = "Zakupy niedozwolone";
+"Subscription-CantMakePurchasesMessage" = "To urządzenie nie ma autoryzacji do robienia zakupów. Zaloguj się do AppStore na urządzeniu z autoryzacją i spróbuj ponownie.";
+"Subscription-PurchaseFailedTitle" = "Zakup nie powiódł się";
+"Subscription-PurchaseFailedMessage" = "Zakup nie powiódł się. Spróbuj ponownie. ((ERR))"; // localize up to ((ERR))
+"Subscription-PurchaseFailedGenericMessage" = "Zakup nie powiódł się. Spróbuj ponownie.";
+"Subscription-SuccessTitle" = "(SC) Odblokowano"; // ignore (SC)
+"Subscription-SuccessMessage" = "Odblokowano wszystkie funkcje i usunięto reklamy.";
+"Subscription-NoPreviousPurchasesTitle" = "Przywróć zakupy";
+"Subscription-NoPreviousPurchasesMessage" = "Nie znaleziono zakupów.";
+"Subscription-LegacyCheckTitle" = "Wymagana weryfikacja";
+"Subscription-LegacyCheckMessage" = "Możesz być poproszony o zalogowanie Twoim Apple ID, żeby zweryfikować, że używałeś Weather Line 1.";
 
-"Subscription-LegacyFailureTitle" = "Not Available";
-"Subscription-LegacyFailureWL1Message" = "It appears that you were not a Weather Line 1 user.\n\nIf you believe this is an error, please try again or contact us.";
-"Subscription-LegacyFailureIntroMessage" = "It appears that you have previously subscribed to Weather Line 2.\n\nIf you believe this is an error, please try again or contact us.";
-"Subscription-LegacyFailureGeneralMessage" = "It appears that you were not a Weather Line 1 user or have previously subscribed to Weather Line 2.\n\nIf you believe this is an error, please try again or contact us.";
+"Subscription-LegacyFailureTitle" = "Niedostępne";
+"Subscription-LegacyFailureWL1Message" = "Wygląda na to, że nie byłeś użytkownikiem Weather Line 1.\n\nJeśli wierzysz, że to błąd, spróbuj ponownie lub napisz do nas.";
+"Subscription-LegacyFailureIntroMessage" = "Wygląda na to, że już subskrybowałeś Weather Line 2.\n\nJeśli wierzysz, że to błąd, spróbuj ponownie lub napisz do nas.";
+"Subscription-LegacyFailureGeneralMessage" = "Wygląda na to, że nie byłeś użytkownikiem Weather Line 1 lub że już subskrybowałeś Weather Line 2.\n\nJeśli wierzysz, że to błąd, spróbuj ponownie lub napisz do nas.";
 
-"Subscription-ExpirationTitle" = "Subscription Expired";
-"Subscription-ExpirationMessage" = "It appears that your (SC) subscription has expired. To unlock all features and remove ads, subscribe again at any time."; // ignore (SC)
+"Subscription-ExpirationTitle" = "Subskrypcja wygasła";
+"Subscription-ExpirationMessage" = "Wygląda na to, że Twoja subskrypcja (SC) wygasła. Żeby odblokować wszystkie funkcje i usunąć reklamy, zasubskrybuj ponownie."; // ignore (SC)
 
-"ManageSubscriptionPlan-Lifetime" = "(SC) (Lifetime)"; // just localize Lifetime
-"ManageSubscriptionPlan-Free" = "Not (SC)"; // just localize Not
-"ManageSubscriptionPlan-Annual" = "(SC) (Annual)"; // just localize Annual
-"ManageSubscriptionPlan-Monthly" = "(SC) (Monthly)"; // just localize Monthly
-"ManageSubscriptionPlan-Promo" = "(SC) (Promo)"; // just localize Promo
+"ManageSubscriptionPlan-Lifetime" = "(SC) (Dożywotnio)"; // just localize Lifetime
+"ManageSubscriptionPlan-Free" = "Nie (SC)"; // just localize Not
+"ManageSubscriptionPlan-Annual" = "(SC) (Rocznie)"; // just localize Annual
+"ManageSubscriptionPlan-Monthly" = "(SC) (Miesięcznie)"; // just localize Monthly
+"ManageSubscriptionPlan-Promo" = "(SC) (Promocja)"; // just localize Promo
 
-"PrecipitationUnlock" = "Unlock real-time precipitation";
+"PrecipitationUnlock" = "Odblokuj opady w czasie rzecz.";
 
 // Sharing Forecasts
 
