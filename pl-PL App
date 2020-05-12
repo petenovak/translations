@@ -288,13 +288,13 @@
 
 // Forecast - Wind directions
 
-"NE" = "Pn Wsch";
-"E" = "Wsch";
-"SE" = "Pd Wsch";
+"NE" = "PnW";
+"E" = "W";
+"SE" = "PdW";
 "S" = "Pd";
-"SW" = "Pd Zach";
-"W" = "Zach";
-"NW" = "Pn Zach";
+"SW" = "PdZ";
+"W" = "Z";
+"NW" = "PnZ";
 "N" = "Pn";
 
 // Forecast - Moon phases
@@ -422,25 +422,25 @@
 
 // Sharing Forecasts
 
-"shareTitle-forecastCard" = "Forecard Card";
-"shareTitle-entireForecast" = "Entire Card";
-"shareTitle-forecastGraph" = "Forecast Graph";
-"shareTitle-forecastDetails" = "Forecast Details";
-"shareTitle-precipitation" = "Precipitation";
+"shareTitle-forecastCard" = "Karta na wierz.";
+"shareTitle-entireForecast" = "Cała karta";
+"shareTitle-forecastGraph" = "Graf prognozy";
+"shareTitle-forecastDetails" = "Szcz. prognozy";
+"shareTitle-precipitation" = "Opady";
 "shareTitle-radar" = "Radar";
-"shareTitle-historicalGraph" = "Monthly Averages Graph";
-"shareTitle-historicalDetails" = "Monthly Averages Details";
+"shareTitle-historicalGraph" = "Graf mies. średnich";
+"shareTitle-historicalDetails" = "Szcz. mies. średnich";
 
 // Onboarding
 
-"Let’s go" = "Let’s go";
-"Next" = "Next";
-"Industry First" = "Industry First";
-"Weather Line 1 User?" = "Weather Line 1 User?";
-"All-new design, themes, and more..." = "All-new design, themes, and more...";
-"Our innovative weather line" = "Our innovative weather line";
-"Turned up to 100°" = "Turned up to 100°";
-"For your home weather" = "For your home weather";
+"Let’s go" = "Start";
+"Next" = "Dalej";
+"Industry First" = "1sza na rynku";
+"Weather Line 1 User?" = "Użyt. Weather Line 1?";
+"All-new design, themes, and more..." = "Nowy design, motywy i więcej...";
+"Our innovative weather line" = "Innowacyjna weather line";
+"Turned up to 100°" = "Podniesiona do 100°";
+"For your home weather" = "Dla prognozy domowej";
 "Travel Assist automatically manages displaying your home weather while you travel." = "Travel Assist automatically manages displaying your home weather while you travel.";
 "Make it yours" = "Make it yours";
 "Choose from 18 themes, over 50 app icons, and 4 different dark modes." = "Choose from 18 themes, over 50 app icons, and 4 different dark modes.";
@@ -526,6 +526,6 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 " = "Since 2015, we‘ve lost money – every time you check the weather <strong>we pay our data suppliers</strong> and we lacked ongoing income to pay ongoing expenses. We paid for our mistake by using personal savings to stay afloat instead of WL1 shutting down or changing to subscription, while building WL2 into <strong>as big of an upgrade as possible</strong>. We built WL2 for two years to make sure we over-delivered on new features in a worthy upgrade. To see the new features and redeem <strong>a discount for WL1 users</strong>, tap Continue. <discount>Tap “Weather Line 1 User?” on the payment screen to authenticate for a discount</discount>
 "; // ignore all <tags></tags>
 
-"Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers." = "Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers.";
-"Terms of Use" = "Terms of Use";
-"Privacy Policy" = "Privacy Policy";
+"Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers." = "Autorami Weather Line są Ryan Jones i Deepak Mantena w Austin, TX i Portland, OR. \n\nPodziękowania dla Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli i naszych drogich betatesterów.";
+"Terms of Use" = "Warunki użyt.";
+"Privacy Policy" = "Prywatność";
