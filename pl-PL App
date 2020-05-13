@@ -447,36 +447,35 @@
 
 // Onboarding - Benefits Table
 
-"Animated Radar" = "Animated Radar";
-"Remove Ads" = "Remove Ads";
-"18 Themes" = "18 Themes";
-"And much more..." = "And much more...";
-"Extended 10-Day Forecast" = "Extended 10-Day Forecast";
-"Down-To-The-Minute Precipitation" = "Down-To-The-Minute Precipitation";
-"Over 50 App Icons" = "Over 50 App Icons";
-"Today Widget Graph and Themes" = "Today Widget Graph and Themes";
-"Extended 72-Hour Forecast" = "Extended 72-Hour Forecast";
-"Moon Phases" = "Moon Phases";
-"Up to 10 Locations" = "Up to 10 Locations";
-
-"Get Better Forecasts" = "Get Better Forecasts";
-"See 10 Days Ahead" = "See 10 Days Ahead";
-"See 72 Hours Ahead" = "See 72 Hours Ahead";
-"Pick from 18 Themes" = "Pick from 18 Themes";
-"Animated HD Radar" = "Animated HD Radar";
-"Add Moon Phases" = "Add Moon Phases";
-"Add Widget Graph" = "Add Widget Graph";
-"Free Trial" = "Free Trial";
-"Save (PERCENTAGE) Now" = "Save (PERCENTAGE) Now";
+"Animated Radar" = "Animowany Radar";
+"Remove Ads" = "Usuń reklamy";
+"18 Themes" = "18 motywów";
+"And much more..." = "I dużo więcej...";
+"Extended 10-Day Forecast" = "Rozszerzona prognoza na 10 dni";
+"Down-To-The-Minute Precipitation" = "Opady co do minuty";
+"Over 50 App Icons" = "Ponad 50 ikon apki";
+"Today Widget Graph and Themes" = "Motywy i grafy w widgecie";
+"Extended 72-Hour Forecast" = "Rozszerzona prognoza na 72 godz.";
+"Moon Phases" = "Fazy księżyca";
+"Up to 10 Locations" = "Do 10 lokacji";
+"Get Better Forecasts" = "Otrzymuj lepszą prognozę";
+"See 10 Days Ahead" = "Znaj pogodę 10 dni naprzód";
+"See 72 Hours Ahead" = "Znaj pogodę 72 godziny naprzód";
+"Pick from 18 Themes" = "Wybierz spośród 18 motywów";
+"Animated HD Radar" = "Animowany Radar HD";
+"Add Moon Phases" = "Dodaj fazy księżyca";
+"Add Widget Graph" = "Dodaj widget z grafem";
+"Free Trial" = "Darmowy trial";
+"Save (PERCENTAGE) Now" = "Zaoszczędź teraz (PERCENTAGE)";
 
 // Onboarding - Subscription Terms
 
 "✓ No Commitment   ✓ Cancel Anytime
 
 After the free trial this subscription automatically renews at monthly or annual price. If you choose to purchase, payment will not be charged to your iTunes account until 24-hours before the end of the current period. Auto-renewal may be turned off at any time in Settings. Already subscribed? Restore Purchases below or in Settings.
-" = "✓ No Commitment   ✓ Cancel Anytime
+" = "✓ Bez zobowiązań   ✓ Anuluj kiedy chcesz
 
-After the free trial this subscription automatically renews at monthly or annual price. If you choose to purchase, payment will not be charged to your iTunes account until 24-hours before the end of the current period. Auto-renewal may be turned off at any time in Settings. Already subscribed? Restore Purchases below or in Settings.
+Po okresie próbnym ta subskrypcja odnawia się automatycznie za opłatę miesięczną lub roczną. Jeśli zdecydujesz się na zakup, Twoje konta iTunes będzie obciążone na 24 godziny przed zakończeniem obecnej subskrypcji. Auto-odnawianie subskrypcji możesz wyłączyć w ustawieniach. Już subskrybujesz? Odnów zakupy poniżej lub w Ustawieniach.
 ";
 
 "
@@ -484,7 +483,7 @@ After the free trial this subscription automatically renews at monthly or annual
 
 After the (MONTHLYTRIAL) free trial this subscription automatically renews for (PRICE) per month unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
 " = "
-✓ No Commitment   ✓ Cancel Anytime
+✓ Bez zobowiązań   ✓ Anuluj kiedy chcesz
 
 After the (MONTHLYTRIAL) free trial this subscription automatically renews for (PRICE) per month unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
 "; // per month - ignore all in (parentheses)
@@ -494,7 +493,7 @@ After the (MONTHLYTRIAL) free trial this subscription automatically renews for (
 
 After the (YEARLYTRIAL) free trial this subscription automatically renews for (PRICE) per year unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
 " = "
-✓ No Commitment   ✓ Cancel Anytime
+✓ Bez zobowiązań   ✓ Anuluj kiedy chcesz
 
 After the (YEARLYTRIAL) free trial this subscription automatically renews for (PRICE) per year unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
 "; // per year - ignore all in (parentheses)
@@ -503,7 +502,7 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 
 // Legacy subscription
 
-"Limited Time" = "Limitowany czas";
+"Limited Time" = "Limit. okres";
 "Special Offer" = "Specjalna oferta";
 "Accept Special Offer" = "Akceptuj specjalną ofertę";
 "No Thanks" = "Nie, dzięki";
