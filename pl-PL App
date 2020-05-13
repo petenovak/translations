@@ -26,8 +26,8 @@
 "None" = "-";
 "Reset" = "Reset";
 "Skip" = "Pomiń";
-"By" = "O";
-"Of" = "Z"; // as in 1 of 3 pages
+"By" = "o";
+"Of" = "z"; // as in 1 of 3 pages
 
 "Report a Bug" = "Zgłoś błąd";
 "Report a Data Problem" = "Zgłoś błędne dane";
