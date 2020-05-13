@@ -499,33 +499,33 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 After the (YEARLYTRIAL) free trial this subscription automatically renews for (PRICE) per year unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
 "; // per year - ignore all in (parentheses)
 
-"Your Apple ID will immediately be charged a one-time payment of (PRICE)." = "Your Apple ID will immediately be charged a one-time payment of (PRICE)."; // ignore (PRICE)
+"Your Apple ID will immediately be charged a one-time payment of (PRICE)." = "Twoje Apple ID będzie od razu obciążone jednorazową opłatą (PRICE)."; // ignore (PRICE)
 
 // Legacy subscription
 
-"Limited Time" = "Limited Time";
-"Special Offer" = "Special Offer";
-"Accept Special Offer" = "Accept Special Offer";
-"No Thanks" = "No Thanks";
-"Thanks for your support!" = "Thanks for your support!";
-"50% off" = "50% off";
-"Discounted first year" = "Discounted first year";
-"Then regular annual price" = "Then regular annual price";
-"Then (PRICE) per (PERIOD)" = "Then (PRICE) per (PERIOD)"; // i.e "Then $20.99 per year."
+"Limited Time" = "Limitowany czas";
+"Special Offer" = "Specjalna oferta";
+"Accept Special Offer" = "Akceptuj specjalną ofertę";
+"No Thanks" = "Nie, dzięki";
+"Thanks for your support!" = "Dziękujemy za wsparcie!";
+"50% off" = "50% zniżki";
+"Discounted first year" = "Niższa cena w 1szym roku";
+"Then regular annual price" = "Potem normalna cena roczna";
+"Then (PRICE) per (PERIOD)" = "Potem (PRICE) za (PERIOD)"; // i.e "Then $20.99 per year."
 
 // Ads
 
-"Remove Ads" = "Remove Ads";
-"+21 more features" = "+21 more features";
-"Try 7 days free" = "Try 7 days free";
+"Remove Ads" = "Usuń reklamy";
+"+21 more features" = "+21 funkcji";
+"Try 7 days free" = "Testuj przez 7 dni";
 
 // Special Cases
 
-"From Deepak and Ryan" = "From Deepak and Ryan";
+"From Deepak and Ryan" = "Od Deepaka i Ryana";
 "Since 2015, we‘ve lost money – every time you check the weather <strong>we pay our data suppliers</strong> and we lacked ongoing income to pay ongoing expenses. We paid for our mistake by using personal savings to stay afloat instead of WL1 shutting down or changing to subscription, while building WL2 into <strong>as big of an upgrade as possible</strong>. We built WL2 for two years to make sure we over-delivered on new features in a worthy upgrade. To see the new features and redeem <strong>a discount for WL1 users</strong>, tap Continue. <discount>Tap “Weather Line 1 User?” on the payment screen to authenticate for a discount</discount>
-" = "Since 2015, we‘ve lost money – every time you check the weather <strong>we pay our data suppliers</strong> and we lacked ongoing income to pay ongoing expenses. We paid for our mistake by using personal savings to stay afloat instead of WL1 shutting down or changing to subscription, while building WL2 into <strong>as big of an upgrade as possible</strong>. We built WL2 for two years to make sure we over-delivered on new features in a worthy upgrade. To see the new features and redeem <strong>a discount for WL1 users</strong>, tap Continue. <discount>Tap “Weather Line 1 User?” on the payment screen to authenticate for a discount</discount>
+" = "Od 2015 traciliśmy pieniądze – za każdym razem, kiedy sprawdzasz pogodę <strong>my płacimy naszym dostawcom</strong> i nie mieliśmy dochodu, żeby pokryć bieżące wydatki. Nasz błąd dużo nas kosztował - zapłaciliśmy za niego z własnych oszczędności zamiast zamknąć WL1 lub przejść na subskrypcję podczas sprawiania, żeby WL2 był<strong>tak dużym updatem, jak to rylko możliwe</strong>. Pisaliśmy WL2 przez dwa lata, żeby być pewnym, że nowe funkcje oferują dużo więcej, niż typowy upgrade wart zapłacenia. Żeby zobaczyć nowe funkcje i dostać <strong>zniżkę dla użytkowników WL1</strong>, naciśnij Dalej. <discount>Naciśnij “Użyt. Weather Line 1?” na ekranie płatności, żeby być autoryzowanym do zniżki </discount>
 "; // ignore all <tags></tags>
 
-"Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers." = "Autorami Weather Line są Ryan Jones i Deepak Mantena w Austin, TX i Portland, OR. \n\nPodziękowania dla Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli i naszych drogich betatesterów.";
+"Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers." = "Autorami Weather Line są Ryan Jones i Deepak Mantena w Austin, TX i Portland, OR. \n\nKevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli i nasi drodzy betatesterzy, dziękujemy!";
 "Terms of Use" = "Warunki użyt.";
 "Privacy Policy" = "Prywatność";
