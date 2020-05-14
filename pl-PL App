@@ -175,17 +175,17 @@
 "Celsius" = "Celsjusz";
 "Fahrenheit" = "Fahrenheit";
 "Kelvin" = "Kelwin";
-"Miles Per Hour" = "mil/h";
-"Kilometers Per Hour" = "km/h";
-"Meters Per Second" = "m/s";
+"Miles Per Hour" = "mil na godzinę";
+"Kilometers Per Hour" = "kilometrów na godzinę";
+"Meters Per Second" = "metrów na sekundę";
 "Knots" = "węz.";
 "Beaufort" = "Beaufort";
 "Inches" = "cal.";
 "Centimeters" = "cm";
 "Millimeters" = "mm";
-"Inch of Mercury" = "inHg";
-"Hectopascal" = "hPa";
-"Millimeter of Mercury" = "mmHg";
+"Inch of Mercury" = "cali sł. rtęci";
+"Hectopascal" = "hektopaskali";
+"Millimeter of Mercury" = "mm sł. rtęci";
 "Millibar" = "mB";
 
 // Units - Short Form
