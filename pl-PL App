@@ -485,7 +485,7 @@ After the (MONTHLYTRIAL) free trial this subscription automatically renews for (
 " = "
 ✓ Bez zobowiązań   ✓ Anuluj kiedy chcesz
 
-After the (MONTHLYTRIAL) free trial this subscription automatically renews for (PRICE) per month unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
+Po (MONTHLYTRIAL) okresie próbnym ta subskrypcja automatycznie odnawia się w cenie (PRICE) za miesiąc, jeśli nie zostanie anulowana przynajmniej 24 godziny przed upływem okresu próbnego. Twoje Apple ID będzie obciążone z upływem okresu próbnego. Możesz zarządzać i anulować subskrypcje w ustawieniach konta w App Store. Już subskrybujesz? Odnów zakupy poniżej lub w Ustawieniach.
 "; // per month - ignore all in (parentheses)
 
 "
@@ -495,7 +495,7 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 " = "
 ✓ Bez zobowiązań   ✓ Anuluj kiedy chcesz
 
-After the (YEARLYTRIAL) free trial this subscription automatically renews for (PRICE) per year unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
+Po (YEARLYTRIAL) okresie próbnym ta subskrypcja automatycznie odnawia się w cenie (PRICE) za rok, jeśli nie zostanie anulowana przynajmniej 24 godziny przed upływem okresu próbnego. Twoje Apple ID będzie obciążone z upływem okresu próbnego. Możesz zarządzać i anulować subskrypcje w ustawieniach konta w App Store. Już subskrybujesz? Odnów zakupy poniżej lub w Ustawieniach.
 "; // per year - ignore all in (parentheses)
 
 "Your Apple ID will immediately be charged a one-time payment of (PRICE)." = "Twoje Apple ID będzie od razu obciążone jednorazową opłatą (PRICE)."; // ignore (PRICE)
