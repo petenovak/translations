@@ -244,13 +244,13 @@
 "Gust" = "Porywy";
 "Radar" = "Radar";
 "MonthlyAverages" = "Średnie na mies.";
-"FeelsLike" = "Czuć jak";
-"Feels Like" = "Czuć jak";
-"Actual" = "Właśc.";
-"ActualTemp" = "Właśc. temp.";
+"FeelsLike" = "Odczuwalna";
+"Feels Like" = "Odczuwalna";
+"Actual" = "Prawdziwa";
+"ActualTemp" = "Prawdziwa";
 "Precipitation" = "Opady";
 "Snow" = "Śnieg";
-"Sleet" = "Śn+de";
+"Sleet" = "Śn/de";
 "DewPoint" = "Punkt rosy";
 "Humidity" = "Wilgotność";
 "Sunrise" = "Wschód";
@@ -258,8 +258,8 @@
 "Wind" = "Wiatr";
 "UVIndex" = "Wskaźnik UV";
 "CloudCover" = "Zachmurzenie";
-"AvgHigh" = "Średn. Max";
-"AvgLow" = "Średn. Min";
+"AvgHigh" = "Średnie Max";
+"AvgLow" = "Średnie Min";
 "MonthlyRain" = "Opady mies.";
 "MonthlyRainCondensed" = "Opady/mc";
 "DailyRain" = "Opady dzienne";
@@ -283,7 +283,7 @@
 "Weather Alert" = "Alert pogodowy";
 "Weather Alerts" = "Alerty pogodowe";
 "Expires" = "Wygasa";
-"at" = "O";
+"at" = "o";
 "Noon" = "12:00";
 
 // Forecast - Wind directions
@@ -313,7 +313,7 @@
 "Clear" = "Bezchm.";
 "Rain" = "Deszcz";
 "Snow" = "Śnieg";
-"Sleet" = "Śn+de";
+"Sleet" = "Śn/de";
 "Windy" = "Wietrznie";
 "Fog" = "Mgła";
 "Partly Cloudy" = "Częśc. zachm.";
