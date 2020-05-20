@@ -69,18 +69,18 @@
 "Updating" = "Uaktualniam";
 "LastUpdated" = "Uaktualniono";
 "Offline" = "Offline";
-"Unknown" = "Nieznany";
+"Unknown" = "Nieznane";
 
 // Settings
 
-"UpgradeToSuperchargeTitle" = "Upgraduj do Supercharge";
+"UpgradeToSuperchargeTitle" = "Upgraduj do Premium";
 "EmptyLocationList-Header" = "Brak lokacji";
 "EmptyLocationList-Message" = "Dodaj lokację w menu na górze";
 "AddANewLocation" = "Dodaj nową lokację";
 "DeleteALocation" = "Usuń istniejącą lokację, żeby dodać nową";
 "ManageLocationsTitle" = "Lokacje";
 "WidgetTitle" = "Widget";
-"LaunchMode" = "Tryb otwarcia";
+"LaunchMode" = "Pierwszy ekran";
 "ManageAdsTitle" = "Reklamy";
 "ManageAccountTitle" = "Subskrypcja";
 "ManageThemeTitle" = "Motyw";
@@ -134,14 +134,14 @@
 "Automatically When Loaded" = "Aut. po załadowaniu";
 "When Tapped" = "Po tapnięciu";
 "Automatically" = "Automatycznie";
-"All, Hourly" = "Wsz, co godz.";
+"All, Hourly" = "Wsz, godziny";
 "All, Daily" = "Wsz, dni";
-"Top, Hourly" = "Top, co godz.";
+"Top, Hourly" = "Top, godziny";
 "Top, Daily" = "Top, dni";
-"All Locations, Hourly Graph" = "Wsz. lokacje, co godzinę";
-"All Locations, Daily Graph" = "Wsz. lokacje, najbl. dni";
-"Top Location, Hourly Graph" = "Top lokacje, co godzinę";
-"Top Location, Daily Graph" = "Top lokacje, najbl. dni";
+"All Locations, Hourly Graph" = "Wszystkie lokacje, godziny";
+"All Locations, Daily Graph" = "Wszystkie lokacje, dni";
+"Top Location, Hourly Graph" = "Top lokacja, godziny";
+"Top Location, Daily Graph" = "Top lokacja, dni";
 
 "Auto Match to Theme" = "Dopasuj do motywu";
 "Update Theme Settings" = "Uaktualnij ust. motywu";
