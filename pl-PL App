@@ -375,7 +375,7 @@
 "TravelAssistChangeLocation" = "Zmień adres domowy";
 "TravelAssistTurnOff" = "Wyłącz";
 "Away" = "Poza domem";
-"Home" = "W domu";
+"Home" = "Dom";
 
 // Widget
 
@@ -435,8 +435,8 @@
 
 "Let’s go" = "Start";
 "Next" = "Dalej";
-"Industry First" = "1sza na rynku";
-"Weather Line 1 User?" = "Użyt. Weather Line 1?";
+"Industry First" = "Pierwsza na rynku";
+"Weather Line 1 User?" = "Użytkownik WL1?";
 "All-new design, themes, and more..." = "Nowy design, motywy i więcej...";
 "Our innovative weather line" = "Innowacyjna weather line";
 "Turned up to 100°" = "Podniesiona do 100°";
