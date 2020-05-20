@@ -144,12 +144,12 @@
 "Top Location, Daily Graph" = "Top lokacja, dziennie";
 
 "Auto Match to Theme" = "Dopasuj do motywu";
-"Update Theme Settings" = "Uaktualnij ust. motywu";
-"Open Theme Settings" = "Otwórz ust. motywu";
+"Update Theme Settings" = "Uaktualnij ustawienia motywu";
+"Open Theme Settings" = "Otwórz ustawienia motywu";
 
 "To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings." =  "Żeby dopasować ikonę automatycznie do motywu, wyłącz najpierw (ALERT) w ustawieniach motywu."; // WL-Insert
 
-"Play Animation" = "Odtwórz animacje";
+"Play Animation" = "Odtwarzaj animacje";
 "Map Style" = "Tryb mapy";
 "Show Map Pin" = "Pokaż pinezkę";
 "Animation Preview" = "Podgląd animacji";
@@ -162,10 +162,10 @@
 "CurrentLocation" = "Twoje położenie";
 "AddLocationSearchBarPlaceholder" = "Szukaj";
 "LocationAccess-NotAuthorizedTitle" = "Brak autoryzacji";
-"LocationAccess-NotAuthorizedMessage" = "Włącz dostęp do lokalizacji, żeby otrzymać prognozę w Twoim położeniu.";
+"LocationAccess-NotAuthorizedMessage" = "Nadaj dostęp do lokalizacji, żeby otrzymać prognozę w Twoim położeniu.";
 "LocationAccess-CouldntDetermineTitle" = "Nie mogę znaleźć położenia";
 "LocationAccess-CouldntDetermineMessage" = "Upewnij się, że dostęp do lokalizacji jest włączony w Ustawieniach i spróbuj ponownie.";
-"Automatic" = "Automat.";
+"Automatic" = "Automatycznie";
 "Saved" = "Zapisano";
 "AddLocationSearchMessage" = "Wpisz adres, miasto, kod pocztowy lub lotnisko.";
 "AddLocationListLocationMessage" = "Gdzie na liście zapisywać nowe lokacje?";
