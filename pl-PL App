@@ -175,18 +175,18 @@
 "Celsius" = "Celsjusz";
 "Fahrenheit" = "Fahrenheit";
 "Kelvin" = "Kelwin";
-"Miles Per Hour" = "mil na godzinę";
-"Kilometers Per Hour" = "kilometrów na godzinę";
-"Meters Per Second" = "metrów na sekundę";
-"Knots" = "węz.";
-"Beaufort" = "Beaufort";
-"Inches" = "cal.";
-"Centimeters" = "cm";
-"Millimeters" = "mm";
-"Inch of Mercury" = "cali sł. rtęci";
-"Hectopascal" = "hektopaskali";
-"Millimeter of Mercury" = "mm sł. rtęci";
-"Millibar" = "mB";
+"Miles Per Hour" = "Mile na godzinę";
+"Kilometers Per Hour" = "Kilometry na godzinę";
+"Meters Per Second" = "Metry na sekundę";
+"Knots" = "Węzły";
+"Beaufort" = "Skala Beauforta";
+"Inches" = "Cale";
+"Centimeters" = "Centymetry";
+"Millimeters" = "Milimetry";
+"Inch of Mercury" = "Cale słupka rtęci";
+"Hectopascal" = "Hektopaskale";
+"Millimeter of Mercury" = "Milimetry słupka rtęci";
+"Millibar" = "Milibary";
 
 // Units - Short Form
 
@@ -195,13 +195,13 @@
 "K" = "K"; // Kelvin
 "mph" = "mil/h";
 "kph" = "km/h";
-"in" = "cal."; // inch
+"in" = "”"; // inch
 "cm" = "cm";
 "mm" = "mm";
 "mph" = "mil/h";
 "m/s" = "m/s";
 "km/h" = "km/h";
-"kn" = "węz."; // knots
+"kn" = "w."; // knots
 "inHg" = "inHg";
 "mmHg" = "mmHg";
 "hPa" = "hPa";
@@ -243,7 +243,7 @@
 "NoPrecipitationForTheHour" = "Brak opadów w tej godzinie";
 "Gust" = "Porywy";
 "Radar" = "Radar";
-"MonthlyAverages" = "Średnie na mies.";
+"MonthlyAverages" = "Średnie miesięczne";
 "FeelsLike" = "Odczuwalna";
 "Feels Like" = "Odczuwalna";
 "Actual" = "Rzeczywista";
@@ -264,9 +264,9 @@
 "MonthlyRainCondensed" = "Opady/mc";
 "DailyRain" = "Opady dzienne";
 "RainDays" = "Dni deszczowych";
-"SnowDays" = "Dni ze śniegiem";
+"SnowDays" = "Dni śniegu";
 "DryDays" = "Dni suchych";
-"FogDays" = "Dni z mgłą";
+"FogDays" = "Dni mgły";
 "HoursOfSun" = Godzin słońca";
 
 // Forecast - Times
@@ -284,7 +284,7 @@
 "Weather Alerts" = "Alerty pogodowe";
 "Expires" = "Wygasa";
 "at" = "o";
-"Noon" = "12:00";
+"Noon" = "12";
 
 // Forecast - Wind directions
 
@@ -326,8 +326,8 @@
 "Thunderstorm" = "Burza";
 "Sandstorm" = "Burza pias.";
 
-"Most Common" = "Najczęściej";
-"Extra Hot" = "Upał";
+"Most Common" = "Najczęstsze";
+"Extra Hot" = "Upały";
 "Precipitation" = "Opady";
 "Clear Night" = "Bezchmurna noc";
 "Cloudy Night" = "Pochmurna noc";
