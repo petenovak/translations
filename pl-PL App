@@ -111,12 +111,12 @@
 "Open-Source Components" = "Elementy Open-Source";
 
 "LaunchModeHelpText" = "Po każdym uruchomieniu aplikacja będzie pokazywać ten ekran.";
-"WidgetHelpText" = "Włącz, żeby automatycznie dopasować motyw. Zostaw wyłączone, żeby używać przezroczystego tła widgetu. (SC) wymagane dla grafu i motywów.";
+"WidgetHelpText" = "Włącz, żeby automatycznie dopasować motyw. Zostaw wyłączone, żeby używać przezroczystego tła widgetu. (SC) wymagane dla wykresu i motywów.";
 "MoonPhaseHelpText" = "(SC) wymagane dla faz księżyca.\n";
 "AnimatedRadarHelpText" = "(SC) wymagane dla animacji.\n";
 "AdsHelpText" = "(SC) wymagane do usunięcia reklam.\n";
 "ThemesHelpText" = "(SC) wymagane dla motywów innych, niż jasny i ciemny.\n";
-"GraphTemperatureHelpText" = "Wybierz, którą temperaturę wyświetlać jako graf. Pozostałe będą wyświetlane pod spodem.\n";
+"GraphTemperatureHelpText" = "Wybierz, którą temperaturę wyświetlać jako wykres. Pozostałe będą wyświetlane pod spodem.\n";
 "BasicWeatherHeader" = "Podst.";
 "BasicWeatherSubtitle" = "Podst. 7-dniowa prognoza NOAA";
 "SuperForecastHeader" = "Superprognoza";
@@ -422,14 +422,14 @@
 
 // Sharing Forecasts
 
-"shareTitle-forecastCard" = "Karta na wierz.";
+"shareTitle-forecastCard" = "Kartę prognozy";
 "shareTitle-entireForecast" = "Całą prognozę";
-"shareTitle-forecastGraph" = "Graf";
-"shareTitle-forecastDetails" = "Szcz. prognozy";
+"shareTitle-forecastGraph" = "Wykres prognozy";
+"shareTitle-forecastDetails" = "Szczegóły prognozy";
 "shareTitle-precipitation" = "Opady";
 "shareTitle-radar" = "Radar";
-"shareTitle-historicalGraph" = "Graf mies. średnich";
-"shareTitle-historicalDetails" = "Szcz. mies. średnich";
+"shareTitle-historicalGraph" = "Wykres mies. średnich";
+"shareTitle-historicalDetails" = "Szczegóły mies. średnich";
 
 // Onboarding
 
@@ -454,7 +454,7 @@
 "Extended 10-Day Forecast" = "Rozszerzona prognoza na 10 dni";
 "Down-To-The-Minute Precipitation" = "Opady co do minuty";
 "Over 50 App Icons" = "Ponad 50 ikon apki";
-"Today Widget Graph and Themes" = "Motywy i grafy w widgecie";
+"Today Widget Graph and Themes" = "Motywy i wykresy w widgecie";
 "Extended 72-Hour Forecast" = "Rozszerzona prognoza na 72 godz.";
 "Moon Phases" = "Fazy księżyca";
 "Up to 10 Locations" = "Do 10 lokacji";
@@ -464,7 +464,7 @@
 "Pick from 18 Themes" = "Wybierz spośród 18 motywów";
 "Animated HD Radar" = "Animowany Radar HD";
 "Add Moon Phases" = "Dodaj fazy księżyca";
-"Add Widget Graph" = "Dodaj widget z grafem";
+"Add Widget Graph" = "Dodaj widget z wykresem";
 "Free Trial" = "Darmowy trial";
 "Save (PERCENTAGE) Now" = "Zaoszczędź teraz (PERCENTAGE)";
 
