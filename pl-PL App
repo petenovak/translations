@@ -39,7 +39,7 @@
 "Continue" = "Dalej";
 "Never" = "Nigdy";
 "Status" = "Status";
-"Manage" = "Zarządz.";
+"Manage" = "Zarządzanie";
 "Type" = "Typ"; // as in type of something (noun), not action to type (verb)
 "Expires" = "Wygasa";
 "RestorePurchases" = "Przywróć zakupy";
@@ -51,22 +51,22 @@
 // General - Time-based
 
 "Hours" = "Godz.";
-"Hour" = "Godz.";
-"Day" = "D.";
+"Hour" = "Godzina";
+"Day" = "Dzień";
 "Days" = "Dni";
-"Week" = "Tydz.";
+"Week" = "Tydzień";
 "Weeks" = "Tyg.";
-"Month" = "Mies.";
+"Month" = "Miesiąc";
 "Months" = "Mies.";
 
-"Hourly" = "Co godz.";
-"Daily" = "Dzien.";
+"Hourly" = "Godziny";
+"Daily" = "Dni";
 
 "AddMyLocation" = "Dodaj moją lokację";
 
 // Toasts - Forecast Refreshing
 
-"Updating" = "Uaktualn.";
+"Updating" = "Uaktualniam";
 "LastUpdated" = "Uaktualniono";
 "Offline" = "Offline";
 "Unknown" = "Nieznany";
@@ -86,7 +86,7 @@
 "ManageThemeTitle" = "Motyw";
 "AppIconTitle" = "Ikona";
 "WeatherData" = "Dane pogodowe";
-"WeatherDataTitle" = "Źródło";
+"WeatherDataTitle" = "Źródła";
 "ManageRadarTitle" = "Radar";
 "MoonPhasesTitle" = "Fazy księżyca";
 "ManageUnitsTitle" = "Jedn.";
@@ -95,8 +95,8 @@
 "ContactUs" = "Kontakt";
 "RateWeatherLine" = "Oceń nas";
 "ShareApp" = "Udostępnij";
-"FollowWeatherLine" = "Obserwuj";
-"ManageSubscription" = "Zarządzaj subskr.";
+"FollowWeatherLine" = "Obserwuj nas";
+"ManageSubscription" = "Zarządzaj subskrybcją";
 "Acknowledgments" = "Podziękowania";
 "ShowWalkthrough" = "Przewodnik";
 
@@ -104,7 +104,7 @@
 
 "Locations" = "Lokacje";
 "Appearance" = "Wygląd";
-"Other" = "Inne";
+"Other" = "Pozostałe";
 
 // Settings subpages
 
