@@ -59,8 +59,8 @@
 "Month" = "Miesiąc";
 "Months" = "Mies.";
 
-"Hourly" = "Cogodzinna";
-"Daily" = "Codzienna";
+"Hourly" = "Co godzinę";
+"Daily" = "Dziennie";
 
 "AddMyLocation" = "Dodaj moją lokację";
 
@@ -89,7 +89,7 @@
 "WeatherDataTitle" = "Źródła";
 "ManageRadarTitle" = "Radar";
 "MoonPhasesTitle" = "Fazy księżyca";
-"ManageUnitsTitle" = "Jedn.";
+"ManageUnitsTitle" = "Jednostki";
 "ManageTemperatureTitle" = "Typ temperatury";
 "Legend" = "Legenda";
 "ContactUs" = "Kontakt";
@@ -134,14 +134,14 @@
 "Automatically When Loaded" = "Aut. po załadowaniu";
 "When Tapped" = "Po tapnięciu";
 "Automatically" = "Automatycznie";
-"All, Hourly" = "Wsz, godziny";
-"All, Daily" = "Wsz, dni";
-"Top, Hourly" = "Top, godziny";
-"Top, Daily" = "Top, dni";
-"All Locations, Hourly Graph" = "Wszystkie lokacje, godziny";
-"All Locations, Daily Graph" = "Wszystkie lokacje, dni";
-"Top Location, Hourly Graph" = "Top lokacja, godziny";
-"Top Location, Daily Graph" = "Top lokacja, dni";
+"All, Hourly" = "Wsz., co godz.";
+"All, Daily" = "Wsz., dziennie";
+"Top, Hourly" = "Top, co godz.";
+"Top, Daily" = "Top, dziennie";
+"All Locations, Hourly Graph" = "Wszystkie lokacje, co godzinę";
+"All Locations, Daily Graph" = "Wszystkie lokacje, dziennie";
+"Top Location, Hourly Graph" = "Top lokacja, co godzinę";
+"Top Location, Daily Graph" = "Top lokacja, dziennie";
 
 "Auto Match to Theme" = "Dopasuj do motywu";
 "Update Theme Settings" = "Uaktualnij ust. motywu";
@@ -246,11 +246,11 @@
 "MonthlyAverages" = "Średnie na mies.";
 "FeelsLike" = "Odczuwalna";
 "Feels Like" = "Odczuwalna";
-"Actual" = "Prawdziwa";
-"ActualTemp" = "Prawdziwa";
+"Actual" = "Rzeczywista";
+"ActualTemp" = "Rzeczywista";
 "Precipitation" = "Opady";
 "Snow" = "Śnieg";
-"Sleet" = "Śn/de";
+"Sleet" = "Śnieg z deszczem";
 "DewPoint" = "Punkt rosy";
 "Humidity" = "Wilgotność";
 "Sunrise" = "Wschód";
@@ -310,16 +310,16 @@
 
 // Forecast - Conditions
 
-"Clear" = "Bezchm.";
+"Clear" = "Bezchmurnie";
 "Rain" = "Deszcz";
 "Snow" = "Śnieg";
-"Sleet" = "Śn/de";
+"Sleet" = "Śnieg z deszczem";
 "Windy" = "Wietrznie";
 "Fog" = "Mgła";
 "Partly Cloudy" = "Częśc. zachm.";
 "Mostly Cloudy" = "Gęste zachm.";
 "Hail" = "Grad";
-"Icy" = "Lód";
+"Icy" = "Oblodzenie";
 "Cloudy" = "Pochmurno";
 "Tornado" = "Tornado";
 "Hurricane" = "Huragan";
@@ -329,8 +329,8 @@
 "Most Common" = "Najczęściej";
 "Extra Hot" = "Upał";
 "Precipitation" = "Opady";
-"Clear Night" = "Bezchm. noc";
-"Cloudy Night" = "Pochm. noc";
+"Clear Night" = "Bezchmurna noc";
+"Cloudy Night" = "Pochmurna noc";
 "Other" = "Inne";
 "Radar" = "Radar";
 "Sunny" = "Słonecznie";
@@ -343,10 +343,10 @@
 "Torrential Downpour" = "Urwanie chmury";
 "Light Snow" = "Lekki śnieg";
 "Snow" = "Śnieg";
-"Heavy Snow" = "Dużo śniegu";
-"Icy" = "Lód";
+"Heavy Snow" = "Śnieżyca";
+"Icy" = "Oblodzenie";
 "Hail" = "Grad";
-"Sleet" = "Śn+de";
+"Sleet" = "Śnieg z deszczem";
 "Windy" = "Wietrznie";
 "Foggy" = "Mgliście";
 "Tornado" = "Tornado";
