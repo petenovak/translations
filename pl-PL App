@@ -316,8 +316,8 @@
 "Sleet" = "Śnieg z deszczem";
 "Windy" = "Wietrznie";
 "Fog" = "Mgła";
-"Partly Cloudy" = "Częśc. zachm.";
-"Mostly Cloudy" = "Gęste zachm.";
+"Partly Cloudy" = "Częściowe zachmurzenie";
+"Mostly Cloudy" = "Przeważnie pochmurno";
 "Hail" = "Grad";
 "Icy" = "Oblodzenie";
 "Cloudy" = "Pochmurno";
@@ -334,8 +334,8 @@
 "Other" = "Inne";
 "Radar" = "Radar";
 "Sunny" = "Słonecznie";
-"Partly Cloudy" = "Częśc. zachm.";
-"Mostly Cloudy" = "Gęste zachm.";
+"Partly Cloudy" = "Częściowe zachmurzenie";
+"Mostly Cloudy" = "Przeważnie pochmurno";
 "Cloudy" = "Pochmurno";
 "Drizzle" = "Mżawka";
 "Light Rain" = "Lekki deszcz";
@@ -356,8 +356,8 @@
 
 // Forecast Detail
 
-"Share..." = "Udost...";
-"ShareForecast" = "Udost. prognozę";
+"Share..." = "Udostępnij...";
+"ShareForecast" = "Udostępnij prognozę";
 "ReportADataProblem" = "Zgłoś błędne dane";
 "AffectedAreas" = Dotknięte strefy";
 "OpenAlertWebsite" = "Otwórz stronę z alertem";
@@ -372,7 +372,7 @@
 "TravelAssistActionTitle" = "\nAsystent Podróży";
 "TravelAssistMessage" = "Kiedy podróżujesz dalej, niż (AAD), Twój dom pojawi się jako osobna lokalizacja. Twój adres domowy jest przechowywany tylko na Twoim urządzeniu."; // ignore (AAD)
 "TravelAssistChooseLocation" = "Wybierz lokalizację domu";
-"TravelAssistChangeLocation" = "Zmień lokalizację domu";
+"TravelAssistChangeLocation" = "Zmień adres domowy";
 "TravelAssistTurnOff" = "Wyłącz";
 "Away" = "Poza domem";
 "Home" = "W domu";
@@ -385,8 +385,8 @@
 
 // Subscription
 
-"Supercharge" = "Supercharge";
-"Supercharged" = "Supercharged";
+"Supercharge" = "Premium";
+"Supercharged" = "Premium";
 "SuperForecast" = "Superprognoza";
 "Super Forecast" = "Superprognoza";
 "SuperForecast-LegacyProvider" = "Superprognoza Legacy";
@@ -397,7 +397,7 @@
 "Subscription-PurchaseFailedTitle" = "Zakup nie powiódł się";
 "Subscription-PurchaseFailedMessage" = "Zakup nie powiódł się. Spróbuj ponownie. ((ERR))"; // localize up to ((ERR))
 "Subscription-PurchaseFailedGenericMessage" = "Zakup nie powiódł się. Spróbuj ponownie.";
-"Subscription-SuccessTitle" = "(SC) Odblokowano"; // ignore (SC)
+"Subscription-SuccessTitle" = "Odblokowano (SC)"; // ignore (SC)
 "Subscription-SuccessMessage" = "Odblokowano wszystkie funkcje i usunięto reklamy.";
 "Subscription-NoPreviousPurchasesTitle" = "Przywróć zakupy";
 "Subscription-NoPreviousPurchasesMessage" = "Nie znaleziono zakupów.";
@@ -413,7 +413,7 @@
 "Subscription-ExpirationMessage" = "Wygląda na to, że Twoja subskrypcja (SC) wygasła. Żeby odblokować wszystkie funkcje i usunąć reklamy, zasubskrybuj ponownie."; // ignore (SC)
 
 "ManageSubscriptionPlan-Lifetime" = "(SC) (Dożywotnio)"; // just localize Lifetime
-"ManageSubscriptionPlan-Free" = "Nie (SC)"; // just localize Not
+"ManageSubscriptionPlan-Free" = "Brak (SC)"; // just localize Not
 "ManageSubscriptionPlan-Annual" = "(SC) (Rocznie)"; // just localize Annual
 "ManageSubscriptionPlan-Monthly" = "(SC) (Miesięcznie)"; // just localize Monthly
 "ManageSubscriptionPlan-Promo" = "(SC) (Promocja)"; // just localize Promo
@@ -423,8 +423,8 @@
 // Sharing Forecasts
 
 "shareTitle-forecastCard" = "Karta na wierz.";
-"shareTitle-entireForecast" = "Cała karta";
-"shareTitle-forecastGraph" = "Graf prognozy";
+"shareTitle-entireForecast" = "Całą prognozę";
+"shareTitle-forecastGraph" = "Graf";
 "shareTitle-forecastDetails" = "Szcz. prognozy";
 "shareTitle-precipitation" = "Opady";
 "shareTitle-radar" = "Radar";
