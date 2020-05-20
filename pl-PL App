@@ -18,13 +18,13 @@
 
 "WeatherLine" = "Weather Line";
 "Settings" = "Ustawienia";
-"Done" = "OK";
+"Done" = "Zamknij";
 "Cancel" = "Anuluj";
 "On" = "Wł.";
 "Off" = "Wył.";
 "–" = "–";
 "None" = "-";
-"Reset" = "Reset";
+"Reset" = "Resetuj";
 "Skip" = "Pomiń";
 "By" = "o";
 "Of" = "z"; // as in 1 of 3 pages
@@ -35,7 +35,7 @@
 "Ask a Question" = "Zadaj pytanie";
 "Cancel" = "Anuluj";
 
-"Rename" = "Zm. nazwę";
+"Rename" = "Nazwij";
 "Continue" = "Dalej";
 "Never" = "Nigdy";
 "Status" = "Status";
